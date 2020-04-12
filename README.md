@@ -1,3 +1,6 @@
+## A Real App: The Burger Builder
+This application is created as a part of ReactJs learning from React - The Complete Guide (incl Hooks, React Router, Redux) Course by Maximilian Schwarzmüller in Udemy.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
