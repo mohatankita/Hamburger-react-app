@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/burger_builder/static/css/main.3e37f37f.chunk.css",
-    "main.js": "/burger_builder/static/js/main.7239818d.chunk.js",
-    "main.js.map": "/burger_builder/static/js/main.7239818d.chunk.js.map",
-    "runtime-main.js": "/burger_builder/static/js/runtime-main.0a7d1fd9.js",
-    "runtime-main.js.map": "/burger_builder/static/js/runtime-main.0a7d1fd9.js.map",
-    "static/js/2.aeb6d4f1.chunk.js": "/burger_builder/static/js/2.aeb6d4f1.chunk.js",
-    "static/js/2.aeb6d4f1.chunk.js.map": "/burger_builder/static/js/2.aeb6d4f1.chunk.js.map",
-    "index.html": "/burger_builder/index.html",
-    "precache-manifest.51962feacb1b0617257cdba4e188aac1.js": "/burger_builder/precache-manifest.51962feacb1b0617257cdba4e188aac1.js",
-    "service-worker.js": "/burger_builder/service-worker.js",
-    "static/css/main.3e37f37f.chunk.css.map": "/burger_builder/static/css/main.3e37f37f.chunk.css.map",
-    "static/js/2.aeb6d4f1.chunk.js.LICENSE.txt": "/burger_builder/static/js/2.aeb6d4f1.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/burger_builder/static/media/logo.b8503d26.png"
+    "main.css": "/Hamburger-react-app/static/css/main.3e37f37f.chunk.css",
+    "main.js": "/Hamburger-react-app/static/js/main.eca05f0d.chunk.js",
+    "main.js.map": "/Hamburger-react-app/static/js/main.eca05f0d.chunk.js.map",
+    "runtime-main.js": "/Hamburger-react-app/static/js/runtime-main.47a7c800.js",
+    "runtime-main.js.map": "/Hamburger-react-app/static/js/runtime-main.47a7c800.js.map",
+    "static/js/2.aeb6d4f1.chunk.js": "/Hamburger-react-app/static/js/2.aeb6d4f1.chunk.js",
+    "static/js/2.aeb6d4f1.chunk.js.map": "/Hamburger-react-app/static/js/2.aeb6d4f1.chunk.js.map",
+    "index.html": "/Hamburger-react-app/index.html",
+    "precache-manifest.c6995015ca75ae089329602d650a5118.js": "/Hamburger-react-app/precache-manifest.c6995015ca75ae089329602d650a5118.js",
+    "service-worker.js": "/Hamburger-react-app/service-worker.js",
+    "static/css/main.3e37f37f.chunk.css.map": "/Hamburger-react-app/static/css/main.3e37f37f.chunk.css.map",
+    "static/js/2.aeb6d4f1.chunk.js.LICENSE.txt": "/Hamburger-react-app/static/js/2.aeb6d4f1.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Hamburger-react-app/static/media/logo.b8503d26.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a7d1fd9.js",
+    "static/js/runtime-main.47a7c800.js",
     "static/js/2.aeb6d4f1.chunk.js",
     "static/css/main.3e37f37f.chunk.css",
-    "static/js/main.7239818d.chunk.js"
+    "static/js/main.eca05f0d.chunk.js"
   ]
 }
