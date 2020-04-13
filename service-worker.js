@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Hamburger-react-app/precache-manifest.c6995015ca75ae089329602d650a5118.js"
+  "/Hamburger-react-app/precache-manifest.5bb27cc8cbc0b375f79835b49cee61cd.js"
 );
 
 self.addEventListener('message', (event) => {

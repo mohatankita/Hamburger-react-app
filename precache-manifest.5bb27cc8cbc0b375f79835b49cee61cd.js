@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e0df63483419050dcae45a116d23cc8",
+    "revision": "802b58fc90908c6da3ffb628b4eed776",
     "url": "/Hamburger-react-app/index.html"
   },
   {
-    "revision": "e3d147ae9ef033053ae9",
-    "url": "/Hamburger-react-app/static/css/main.3e37f37f.chunk.css"
+    "revision": "0a5ea7e9e0bbedbda415",
+    "url": "/Hamburger-react-app/static/css/main.445b2ce5.chunk.css"
   },
   {
-    "revision": "86a3460265318934c29f",
-    "url": "/Hamburger-react-app/static/js/2.aeb6d4f1.chunk.js"
+    "revision": "1cf7bc0fb5f832c77f27",
+    "url": "/Hamburger-react-app/static/js/2.b1d1c7f8.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Hamburger-react-app/static/js/2.aeb6d4f1.chunk.js.LICENSE.txt"
+    "url": "/Hamburger-react-app/static/js/2.b1d1c7f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3d147ae9ef033053ae9",
-    "url": "/Hamburger-react-app/static/js/main.eca05f0d.chunk.js"
+    "revision": "0a5ea7e9e0bbedbda415",
+    "url": "/Hamburger-react-app/static/js/main.1565226d.chunk.js"
   },
   {
     "revision": "5b93dcd4a16c92d132d9",
