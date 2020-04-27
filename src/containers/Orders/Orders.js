@@ -2,39 +2,43 @@ import React, { Component } from 'react';
 import Order from '../../components/Order/Order';
 import Axios from '../../axios-orders';
 import withErrorHandler from '../../hoc/withErrorHandler/withErrorHandler';
+import * as actions from '../../store/actions/index';
+import { connect } from 'react-redux';
+import Spinner from '../../components/UI/Spinner/Spinner';
 
 class Orders extends Component {
-    state = {
-        orders: [],
-        loading: false
-    }
 
     componentDidMount() {
-        Axios.get('/orders.json')
-            .then(res => {
-                const fetchOrders = [];
-                for( let key in res.data) {
-                    fetchOrders.push( {
-                        ...res.data[key],
-                        id: key
-                    });
-                }
-                this.setState({ loading: false, orders: fetchOrders })
-            })
-            .catch(error => {
-                this.setState({ loading: false })
-            })
+       this.props.onFetchOrders();
     }
+
     render() {
-        return (
-            <div>
-                { this.state.orders.map( order => 
+        let orders = <Spinner />;
+        if(!this.props.loading) {
+            orders = this.props.orders.map( order => 
                         <Order key={order.id}
                                 ingredients={order.ingredients}
-                                price={+order.price} /> )}
+                                price={+order.price} /> )
+        }
+        return (
+            <div>
+                { orders }
             </div>
         )
     }
 }
 
-export default withErrorHandler(Orders, Axios);
+const mapStateToProps = state => {
+    return {
+        orders: state.order.orders,
+        loading: state.order.loading
+    }
+}
+
+const mapDispatchToProps = dispatch => {
+    return {
+        onFetchOrders: () => dispatch(actions.fetchOrders())
+    }
+}
+
+export default connect( mapStateToProps, mapDispatchToProps )( withErrorHandler(Orders, Axios));
