@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Hamburger-react-app/static/css/main.a23b25eb.chunk.css",
-    "main.js": "/Hamburger-react-app/static/js/main.b2588d6d.chunk.js",
-    "main.js.map": "/Hamburger-react-app/static/js/main.b2588d6d.chunk.js.map",
+    "main.js": "/Hamburger-react-app/static/js/main.100991d7.chunk.js",
+    "main.js.map": "/Hamburger-react-app/static/js/main.100991d7.chunk.js.map",
     "runtime-main.js": "/Hamburger-react-app/static/js/runtime-main.47a7c800.js",
     "runtime-main.js.map": "/Hamburger-react-app/static/js/runtime-main.47a7c800.js.map",
-    "static/js/2.f0f4f5c6.chunk.js": "/Hamburger-react-app/static/js/2.f0f4f5c6.chunk.js",
-    "static/js/2.f0f4f5c6.chunk.js.map": "/Hamburger-react-app/static/js/2.f0f4f5c6.chunk.js.map",
+    "static/js/2.3eaa1ece.chunk.js": "/Hamburger-react-app/static/js/2.3eaa1ece.chunk.js",
+    "static/js/2.3eaa1ece.chunk.js.map": "/Hamburger-react-app/static/js/2.3eaa1ece.chunk.js.map",
     "index.html": "/Hamburger-react-app/index.html",
-    "precache-manifest.28f204bc12af2b60cd353fca071dca32.js": "/Hamburger-react-app/precache-manifest.28f204bc12af2b60cd353fca071dca32.js",
+    "precache-manifest.586c7c97af1f960ae6873dfc6609c5d5.js": "/Hamburger-react-app/precache-manifest.586c7c97af1f960ae6873dfc6609c5d5.js",
     "service-worker.js": "/Hamburger-react-app/service-worker.js",
     "static/css/main.a23b25eb.chunk.css.map": "/Hamburger-react-app/static/css/main.a23b25eb.chunk.css.map",
-    "static/js/2.f0f4f5c6.chunk.js.LICENSE.txt": "/Hamburger-react-app/static/js/2.f0f4f5c6.chunk.js.LICENSE.txt",
+    "static/js/2.3eaa1ece.chunk.js.LICENSE.txt": "/Hamburger-react-app/static/js/2.3eaa1ece.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/Hamburger-react-app/static/media/logo.b8503d26.png"
   },
   "entrypoints": [
     "static/js/runtime-main.47a7c800.js",
-    "static/js/2.f0f4f5c6.chunk.js",
+    "static/js/2.3eaa1ece.chunk.js",
     "static/css/main.a23b25eb.chunk.css",
-    "static/js/main.b2588d6d.chunk.js"
+    "static/js/main.100991d7.chunk.js"
   ]
 }
